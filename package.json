@@ -1,0 +1,22 @@
+{
+  "name": "jestcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "dependencies": {
+    "is-descriptor": "^1.0.2",
+    "debug": "^4.1.1",
+    "extend-shallow": "^2.0.1",
+    "define-property": "^0.2.5",
+    "safe-buffer": "^5.2.0",
+    "jest": "^24.9.0",
+    "supports-color": "^6.1.0",
+    "kind-of": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
