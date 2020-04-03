@@ -11,7 +11,7 @@
     "safe-buffer": "^5.2.0",
     "jest": "^24.9.0",
     "supports-color": "^6.1.0",
-    "kind-of": "^3.2.2"
+    "kind-of": "^6.0.3"
   },
   "devDependencies": {},
   "scripts": {
